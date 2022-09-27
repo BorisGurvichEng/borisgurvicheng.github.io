@@ -23,16 +23,16 @@ en: &DEFAULT_EN
     list:
       - title: "System Design"
         desc: "Planning and designing boiler rooms, auxiliary and water supply systems"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa fa-wrench #find more at https://fontawesome.com/icons
       - title: "Drafting"
         desc: "Providing high quality 2D and 3D drafts for any type of water supply systems. Converting existing 2D drafts to 3D"
         icon: fas fa-laptop
       - title: "Consulting"
         desc: "Vapor, water and fuel systems"
-        icon: fab fa-markdown
+        icon: fa fa-rocket
       - title: "Instruction"
         desc: "Instructing maintenance personnel on best practices for maintaining water and heat systems"
-        icon: fab fa-markdown
+        icon: fa fa-graduation-cap
 
   portfolio:
     title: "Portfolio"
