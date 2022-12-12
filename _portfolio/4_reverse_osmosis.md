@@ -1,11 +1,11 @@
 ---
 title: Reverse Osmosis System
 subtitle: 
-image: assets/img/portfolio/RO.jpg
+image: assets/img/portfolio/beilin.jpg
 alt: Reverse Osmosis system 
 
 caption:
   title: Reverse Osmosis System
   subtitle: 
-  thumbnail: assets/img/portfolio/RO.jpg
+  thumbnail: assets/img/portfolio/beilin.jpg
 ---
