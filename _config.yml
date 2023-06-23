@@ -17,8 +17,8 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/borisgurvicheng.github.io" # the subpath of your site, e.g. /blog
 
-title      : Boris Gurvich Engineering 
-email      : boris.gurvich@cc #this is also the email contact forms will go to
+title      : Boris Gurvich Engineering
+email      : gurvich.boris@gmail.com
 description: "Water and Gas Supply Systems"
 author     : Boris Gurvich
 # logo:     #optional, defaults to site title
@@ -28,7 +28,7 @@ author     : Boris Gurvich
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: "G-G2CEVQH77H"
 
 collections:
   portfolio:
